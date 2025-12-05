@@ -151,7 +151,7 @@ Utility functions that allow for the convenient construction of custom analysis 
 
 # Reference
 
-> Kaixiang, Z., Chen, J., Jinfeng, H., Cheng, W., Jiang, Q., Jianfen, F., Eickhoff, S. & Vatansever, D. (2025) Charting the meta-trait landscape of human personality.
+> Kaixiang, Z., Chen, J., Jinfeng, H., Cheng, W., Jiang, Q., Jianfen, F., Eickhoff, S. & Vatansever, D. (2025) Charting the Big Two landscape of human personality.
 >
 > Chen, J., Patil, K. R., Weis, S., Sim, K., Nickl-Jockschat, T., Zhou, J., ... & Visser, E. (2020). Neurobiological divergence of the positive and negative schizophrenia subtypes identified on a new factor structure of psychopathology using non-negative factorization: an international machine learning study. *Biological psychiatry*.
 
