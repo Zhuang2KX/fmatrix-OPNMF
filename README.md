@@ -1,6 +1,6 @@
 # Introduction
 
-The core code and models in the article "Charting the Meta-Trait Landscape of Human Personality".
+The core code and models in the article "Machine-Learning Decomposition Identifies a Big Two Structure in Human Personality with Distinct Neurocognitive Profiles".
 
 The primary objective of this code library is to facilitate the factor decomposition of behavioral data using [Orthogonal Projection Non-negative Matrix Factorization (OPNMF)](https://github.com/asotiras/brainparts), and to appropriately visualize the results.
 
