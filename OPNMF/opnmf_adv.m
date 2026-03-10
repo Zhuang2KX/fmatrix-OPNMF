@@ -17,7 +17,7 @@ function [W, H] = opnmf_adv(X, K, w0, initMeth, max_iter, tol, iter0, save_step,
 % -------------------------------------------------------------------------
 % External interface
 % -------------------------------------------------------------------------
-% [W, H] = opnmf_nan(X, K, w0, initMeth, max_iter, tol, iter0, save_step, outputdir)
+% [W, H] = opnmf_adv(X, K, w0, initMeth, max_iter, tol, iter0, save_step, outputdir)
 %
 % This function keeps the original brainparts OPNMF interface as much as
 % possible, while adding a practical missing-data branch for NaN entries.
