@@ -144,14 +144,31 @@ Utility functions that allow for the convenient construction of custom analysis 
 
 *   get\_projection.m
 
-    Project the data points, represented as vectors within the meta-trait space, onto a specific angle.
+    Projects the data points, represented as vectors within the meta-trait space, onto a specific angle.
 *   get\_rotation.m
 
     Project the vectors by rotating the coordinate axes.
+	
+### Ipsatize
+
+*   get\_ipsatize.m
+
+    Ipsatize questionnaire responses and shift to strictly positive.
+
+## 6.OPNMF
+
+Two OPNMF implementations that allow for the convenient construction of custom analysis frameworks.
+
+*   opnmf.m
+
+    The original OPNMF implementation from the brainparts toolkit.
+*   opnmf\_adv.m
+
+    Extends the basic implementation of opnmf.m by adding memory‑optimization and missing‑data (NaN) handling capabilities (equivalent to opnmf.m when the input data contain no missing values).
 
 # Reference
 
-> Kaixiang, Z., Chen, J., Jinfeng, H., Cheng, W., Jiang, Q., Jianfen, F., Eickhoff, S. & Vatansever, D. (2025) Charting the Big Two landscape of human personality.
+> Kaixiang, Z., Chen, J., Jinfeng, H., Cheng, W., Jiang, Q., Jianfen, F., Eickhoff, S. & Vatansever, D. (2026) Machine-learning decomposition identifies a Big Two structure in human personality with distinct neurocognitive profiles. *Advanced Science*.
 >
 > Chen, J., Patil, K. R., Weis, S., Sim, K., Nickl-Jockschat, T., Zhou, J., ... & Visser, E. (2020). Neurobiological divergence of the positive and negative schizophrenia subtypes identified on a new factor structure of psychopathology using non-negative factorization: an international machine learning study. *Biological psychiatry*.
 
