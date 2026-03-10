@@ -168,7 +168,7 @@ Two OPNMF implementations that allow for the convenient construction of custom a
 
 # Reference
 
-> Kaixiang, Z., Chen, J., Jinfeng, H., Cheng, W., Jiang, Q., Jianfen, F., Eickhoff, S. & Vatansever, D. (2026) Machine-learning decomposition identifies a Big Two structure in human personality with distinct neurocognitive profiles. *Advanced Science*.
+> Kaixiang, Z., Chen, J., Jinfeng, H., Cheng, W., Jiang, Q., Jianfen, F., Eickhoff, S. & Vatansever, D. (2026) Machine-learning decomposition identifies a Big Two structure in human personality with distinct neurocognitive profiles.
 >
 > Chen, J., Patil, K. R., Weis, S., Sim, K., Nickl-Jockschat, T., Zhou, J., ... & Visser, E. (2020). Neurobiological divergence of the positive and negative schizophrenia subtypes identified on a new factor structure of psychopathology using non-negative factorization: an international machine learning study. *Biological psychiatry*.
 
